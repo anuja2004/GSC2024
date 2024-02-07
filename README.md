@@ -1,3 +1,3 @@
-# GSOC 2024
+# Google Solution Challenge 2024
 
-This represents the codebase for our GSOC 2024 project
+This represents the codebase for our GSC 2024 project
